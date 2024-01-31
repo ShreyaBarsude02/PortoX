@@ -1,0 +1,66 @@
+.nav-item {
+  margin: 10px;
+  font-size: 19px;
+}
+
+.base{
+  background-color: #f7f46b;
+}
+
+.navbar {
+  height: 77px;
+  border-bottom-right-radius: 24px;
+  border-bottom-left-radius: 24px;
+}
+
+.navbar-brand {
+  color: #eece4e;
+  font-size: xxx-large;
+  cursor: context-menu;
+  font-family: "Audiowide", sans-serif;
+}
+
+.navbar-nav {
+  margin-left: 19px;
+}
+
+.nav-link {
+  color: antiquewhite;
+}
+
+.nav-link:hover{
+  color: #eece4e;
+}
+
+.submitButton {
+  padding: 2%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  font-size: 16px;
+  text-align: center;
+  cursor: grab;
+  background-color: #ecdfba;
+  border-radius: 9px;
+  box-shadow: 0 5px black;
+  font-style: normal;
+  padding-right: 10px;
+  padding-left: 10px;
+  border-block: thin;
+  border-block-start-width: thin;
+  border-block-end-width: thin;
+  border-block-start-style: none;
+  border-block-start-color: currentcolor;
+  border-block-end-color: currentcolor;
+  border-block-end-style: initial;
+}
+
+.submitButton:hover {
+  background-color: #f7f46b;
+}
+
+.submitButton:active {
+  background-color: #f7f46b;
+  color:black;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}

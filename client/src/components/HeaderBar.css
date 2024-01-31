@@ -1,0 +1,38 @@
+.header {
+  display: flex;
+  height: 319px;
+}
+
+.left {
+  display: flex;
+  background-color: #fedb52;
+  width: 60%;
+  height: 319px;
+}
+
+.right {
+  display: flex;
+  background-color: #fedb52;
+  justify-content: space-around;
+  width: 40%;
+  height: 319px;
+}
+
+.header-heading{
+    margin: auto;
+}
+
+.header-heading h2{
+    margin-left: 137px;
+    font-family: "Audiowide", sans-serif;
+    font-size: 79px;
+    text-shadow: 3px 3px 3px #ababab;
+    color: #ed7736;
+}
+
+.subheading{
+    font-size: 39px;
+    font-family: "Afacad", sans-serif;
+    opacity: 0.6;
+    margin-left: 109px;
+}

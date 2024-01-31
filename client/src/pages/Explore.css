@@ -1,0 +1,16 @@
+.explore{
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 10px;
+    gap: 10px;
+    margin-top: 19px;
+    margin-left: 5px;
+    margin-right: 5px;
+    
+}
+
+.explorecontainer{
+    display: inline-table;
+    width: 100%;
+    margin: 55px;
+}

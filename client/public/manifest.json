@@ -1,0 +1,25 @@
+{
+  "short_name": "PortoX",
+  "name": "PortoX Website",
+  "icons": [
+    {
+      "src": "logoPortX.png",
+      "sizes": "128x128 128x128 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logoPortX.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logoPortX.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "logoPortX.png", 
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
